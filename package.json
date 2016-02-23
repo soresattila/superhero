@@ -1,0 +1,15 @@
+{
+  "name": "joe-test-package",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "4.13.4",
+    "mime-types": "~2.1.6",
+    "negotiator": "0.5.3",
+    "grunt": "0.4.5",
+    "grunt-cli": "",
+    "grunt-contrib-watch": "",
+    "grunt-contrib-uglify": ""
+  },
+  "description": "My first test package.",
+  "license": "MIT"
+}
